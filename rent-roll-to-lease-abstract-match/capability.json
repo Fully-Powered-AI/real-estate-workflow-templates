@@ -1,0 +1,45 @@
+{
+  "id": "rent-roll-to-lease-abstract-match",
+  "name": "Rent roll to lease abstract match",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Your property accountant gets the rent roll checked against the verified lease abstracts and amendments, unit by unit: rent, area, commencement and expiration, with every difference listed for review. It compares supplied fields only and corrects nothing.",
+  "directory": "https://fullypowered.ai/capabilities/rent-roll-to-lease-abstract-match/",
+  "primary_function": "functions/finance-and-accounting",
+  "functions": [
+    "functions/finance-and-accounting"
+  ],
+  "industries": [
+    "industries/real-estate",
+    "industries/finance-and-investment"
+  ],
+  "situations": [
+    "situations/acquisitions-and-integration",
+    "situations/private-equity-and-portfolios"
+  ],
+  "related": [
+    "receivables-exception-review",
+    "bank-reconciliation-preparation",
+    "month-end-close-checklist"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of real-estate lease-records work."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "property-diligence-index",
+  "name": "Property diligence index",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "The transaction lead gets a diligence room in order: every document indexed by workstream, every checklist item and request tracked, and every open finding tied to the report or request that raised it. Specialists judge the findings; nothing is valued or sent.",
+  "directory": "https://fullypowered.ai/capabilities/property-diligence-index/",
+  "primary_function": "functions/project-and-delivery",
+  "functions": [
+    "functions/project-and-delivery",
+    "functions/operations-and-process-improvement"
+  ],
+  "industries": [
+    "industries/real-estate",
+    "industries/construction",
+    "industries/finance-and-investment"
+  ],
+  "situations": [
+    "situations/private-equity-and-portfolios",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "audit-evidence-index",
+    "vendor-quote-comparison",
+    "decision-log",
+    "lender-draw-package-index",
+    "client-document-request-tracker"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of property diligence coordination, written without third-party text."
+    }
+  ]
+}

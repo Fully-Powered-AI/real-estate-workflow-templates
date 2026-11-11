@@ -1,0 +1,55 @@
+{
+  "repository": "Fully-Powered-AI/real-estate-capability-templates",
+  "title": "Real Estate",
+  "term": "industries/real-estate",
+  "capabilities": [
+    {
+      "id": "listing-copy-fact-check",
+      "name": "Listing copy fact check",
+      "version": "0.1.0",
+      "summary": "The listing agent or marketing lead gets draft listing copy in which every statement is tied to the property sheet, a measurement or a photo, with unsupported descriptions marked and kept out. The listing broker approves; the designated reviewer checks advertising requirements.",
+      "path": "listing-copy-fact-check/",
+      "directory": "https://fullypowered.ai/capabilities/listing-copy-fact-check/"
+    },
+    {
+      "id": "property-diligence-index",
+      "name": "Property diligence index",
+      "version": "0.1.0",
+      "summary": "The transaction lead gets a diligence room in order: every document indexed by workstream, every checklist item and request tracked, and every open finding tied to the report or request that raised it. Specialists judge the findings; nothing is valued or sent.",
+      "path": "property-diligence-index/",
+      "directory": "https://fullypowered.ai/capabilities/property-diligence-index/"
+    },
+    {
+      "id": "property-owner-report",
+      "name": "Property owner report",
+      "version": "0.1.0",
+      "summary": "A property manager gets the month's owner report drafted from the statements and logs they supply: occupancy, collections, open maintenance and the decisions the owner is asked to make, each statement traced to its source and each gap shown.",
+      "path": "property-owner-report/",
+      "directory": "https://fullypowered.ai/capabilities/property-owner-report/"
+    },
+    {
+      "id": "rent-roll-to-lease-abstract-match",
+      "name": "Rent roll to lease abstract match",
+      "version": "0.1.0",
+      "summary": "Your property accountant gets the rent roll checked against the verified lease abstracts and amendments, unit by unit: rent, area, commencement and expiration, with every difference listed for review. It compares supplied fields only and corrects nothing.",
+      "path": "rent-roll-to-lease-abstract-match/",
+      "directory": "https://fullypowered.ai/capabilities/rent-roll-to-lease-abstract-match/"
+    },
+    {
+      "id": "unit-turnover-readiness-checklist",
+      "name": "Unit turnover readiness checklist",
+      "version": "0.1.0",
+      "summary": "Between one tenant and the next, the property manager gets one page for the unit: every recorded repair, the cleaning, keys, utilities and vendor confirmations still open against the approved move-in date, each gap written as a question. Nothing is sent.",
+      "path": "unit-turnover-readiness-checklist/",
+      "directory": "https://fullypowered.ai/capabilities/unit-turnover-readiness-checklist/"
+    },
+    {
+      "id": "vendor-insurance-certificate-check",
+      "name": "Vendor insurance certificate check",
+      "version": "0.1.0",
+      "summary": "For a property manager collecting insurance certificates from service vendors: each certificate's fields set beside the requirements the team already approved, every stated expiration date listed, and draft requests for what is missing. The manager reviews gaps with the insurance adviser before accepting anything.",
+      "path": "vendor-insurance-certificate-check/",
+      "directory": "https://fullypowered.ai/capabilities/vendor-insurance-certificate-check/"
+    }
+  ]
+}

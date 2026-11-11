@@ -1,0 +1,45 @@
+{
+  "id": "unit-turnover-readiness-checklist",
+  "name": "Unit turnover readiness checklist",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Between one tenant and the next, the property manager gets one page for the unit: every recorded repair, the cleaning, keys, utilities and vendor confirmations still open against the approved move-in date, each gap written as a question. Nothing is sent.",
+  "directory": "https://fullypowered.ai/capabilities/unit-turnover-readiness-checklist/",
+  "primary_function": "functions/operations-and-process-improvement",
+  "functions": [
+    "functions/operations-and-process-improvement",
+    "functions/customer-support-and-service"
+  ],
+  "industries": [
+    "industries/real-estate"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "preventive-maintenance-plan",
+    "project-handover-readiness-check",
+    "supplier-delivery-date-check"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of property operations and tenant service, and its own rules for prepared work: the manager's records as the only authority, set column headings with a stop on a mismatch, every gap written as a question for a named role, and a person who verifies, approves and sends."
+    }
+  ]
+}

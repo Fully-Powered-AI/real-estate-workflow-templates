@@ -1,0 +1,44 @@
+{
+  "id": "listing-copy-fact-check",
+  "name": "Listing copy fact check",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "The listing agent or marketing lead gets draft listing copy in which every statement is tied to the property sheet, a measurement or a photo, with unsupported descriptions marked and kept out. The listing broker approves; the designated reviewer checks advertising requirements.",
+  "directory": "https://fullypowered.ai/capabilities/listing-copy-fact-check/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/real-estate",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "copy-edit-with-a-change-list",
+    "store-facts-file",
+    "obsolete-copy-check"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of listing and brochure work in real estate; the method was written from how that work is done, with no third-party text."
+    }
+  ]
+}

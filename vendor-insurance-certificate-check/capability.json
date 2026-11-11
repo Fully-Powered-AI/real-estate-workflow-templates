@@ -1,0 +1,48 @@
+{
+  "id": "vendor-insurance-certificate-check",
+  "name": "Vendor insurance certificate check",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "For a property manager collecting insurance certificates from service vendors: each certificate's fields set beside the requirements the team already approved, every stated expiration date listed, and draft requests for what is missing. The manager reviews gaps with the insurance adviser before accepting anything.",
+  "directory": "https://fullypowered.ai/capabilities/vendor-insurance-certificate-check/",
+  "primary_function": "functions/procurement-and-suppliers",
+  "functions": [
+    "functions/procurement-and-suppliers",
+    "functions/compliance-risk-and-privacy",
+    "functions/operations-and-process-improvement"
+  ],
+  "industries": [
+    "industries/real-estate",
+    "industries/construction",
+    "industries/manufacturing"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "contractor-safety-prequalification",
+    "business-insurance-renewal-review",
+    "vendor-renewal-review"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of property-certificate review: a field comparison against requirements the team has already approved, a list of stated expiration dates and draft requests for missing documents."
+    }
+  ]
+}
