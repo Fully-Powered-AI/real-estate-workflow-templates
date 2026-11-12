@@ -1,13 +1,13 @@
 {
   "id": "property-owner-report",
   "name": "Property owner report",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "A property manager gets the month's owner report drafted from the statements and logs they supply: occupancy, collections, open maintenance and the decisions the owner is asked to make, each statement traced to its source and each gap shown.",
-  "directory": "https://fullypowered.ai/capabilities/property-owner-report/",
-  "primary_function": "functions/executive-and-office-support",
+  "directory": "https://fullypowered.ai/workflow templates/property-owner-report/",
+  "primary_function": "functions/customer-success-and-account-management",
   "functions": [
-    "functions/executive-and-office-support",
+    "functions/customer-success-and-account-management",
     "functions/finance-and-accounting"
   ],
   "industries": [

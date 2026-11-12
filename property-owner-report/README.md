@@ -2,7 +2,7 @@
 
 A property manager gets the month's owner report drafted from the statements and logs they supply: occupancy, collections, open maintenance and the decisions the owner is asked to make, each statement traced to its source and each gap shown.
 
-*Capability template · Real estate · Executive and office support · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/property-owner-report/)*
+*Workflow template · Real estate · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/property-owner-report/)*
 
 ## The outcome
 
@@ -36,12 +36,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 - [Real estate](https://fullypowered.ai/industries/real-estate/), where the building's owner expects the same account of the property every month.
 - [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/), where an asset manager or fund receives reports from several managers and needs them in one shape.
-- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/), which owns the recurring report that goes out under a manager's name.
+- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/), which owns the recurring report that goes to the owner, the client, under a manager's name.
 - [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which stands behind the collections and statement figures.
 - [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/), where owners compare properties on a fixed rhythm.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), where a long-serving manager keeps the owner relationship in their head and the report should live on a page.
 
-It is a different piece of work from the [weekly owner business brief](https://fullypowered.ai/capabilities/weekly-owner-business-brief/), which gives a business owner one page of cash, sales and pipeline each Monday, and from [client status update preparation](https://fullypowered.ai/capabilities/client-status-update-preparation/), which reports on a project's progress and a client's open decisions. This one reports on a building, from its own statements and logs, to the person who owns it. For checking the rent roll against the lease record first, see [rent roll to lease abstract match](https://fullypowered.ai/capabilities/rent-roll-to-lease-abstract-match/).
+It is a different piece of work from the [weekly owner business brief](https://fullypowered.ai/workflows/weekly-owner-business-brief/), which gives a business owner one page of cash, sales and pipeline each Monday, and from [client status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/), which reports on a project's progress and a client's open decisions. This one reports on a building, from its own statements and logs, to the person who owns it. For checking the rent roll against the lease record first, see [rent roll to lease abstract match](https://fullypowered.ai/workflows/rent-roll-to-lease-abstract-match/).
 
 ## What has to change for your company
 
@@ -49,9 +49,9 @@ Use your own report's order if the owner already expects one, and keep it fixed.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026; the record is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026; the record is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past month the property manager and accountant already know, plus cases written in advance with their expected behavior: a stale work-order summary, a rent total that differs between the statement and the collections report, a lease that ended with no renewal on file, a decision carried from last month. They check every figure against the source before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past month the property manager and accountant already know, plus cases written in advance with their expected behavior: a stale work-order summary, a rent total that differs between the statement and the collections report, a lease that ended with no renewal on file, a decision carried from last month. They check every figure against the source before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -62,11 +62,11 @@ Testing in your environment means running it on a past month the property manage
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -76,12 +76,12 @@ Testing in your environment means running it on a past month the property manage
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
 - [Rent roll to lease abstract match](../rent-roll-to-lease-abstract-match/)
-- [Weekly owner business brief](https://fullypowered.ai/capabilities/weekly-owner-business-brief/)
-- [Client-status update preparation](https://fullypowered.ai/capabilities/client-status-update-preparation/)
+- [Weekly owner business brief](https://fullypowered.ai/workflow templates/weekly-owner-business-brief/)
+- [Client-status update preparation](https://fullypowered.ai/workflow templates/client-status-update-preparation/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

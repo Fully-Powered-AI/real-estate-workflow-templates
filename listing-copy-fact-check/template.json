@@ -1,10 +1,10 @@
 {
   "id": "listing-copy-fact-check",
   "name": "Listing copy fact check",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "The listing agent or marketing lead gets draft listing copy in which every statement is tied to the property sheet, a measurement or a photo, with unsupported descriptions marked and kept out. The listing broker approves; the designated reviewer checks advertising requirements.",
-  "directory": "https://fullypowered.ai/capabilities/listing-copy-fact-check/",
+  "directory": "https://fullypowered.ai/workflow templates/listing-copy-fact-check/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content"

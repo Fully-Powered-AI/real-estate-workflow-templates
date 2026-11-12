@@ -1,6 +1,6 @@
 # Property diligence index: an invented example
 
-*Illustrative example with invented data.* The company, the property, the people and every document, date and note below are invented. Quillfeather Property Group is an invented company buying Linden Court Apartments, an invented 24-unit building. The acquisitions lead runs the capability and is also the transaction lead who reviews it. First come the inputs the acquisitions lead supplied, in full, then the index the capability returned. Today is Tuesday 10 November 2026.
+*Illustrative example with invented data.* The company, the property, the people and every document, date and note below are invented. Quillfeather Property Group is an invented company buying Linden Court Apartments, an invented 24-unit building. The acquisitions lead runs the workflow template and is also the transaction lead who reviews it. First come the inputs the acquisitions lead supplied, in full, then the index the workflow template returned. Today is Tuesday 10 November 2026.
 
 ## The inputs
 

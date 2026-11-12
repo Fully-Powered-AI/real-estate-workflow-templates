@@ -2,7 +2,7 @@
 
 Your property accountant gets the rent roll checked against the verified lease abstracts and amendments, unit by unit: rent, area, commencement and expiration, with every difference listed for review. It compares supplied fields only and corrects nothing.
 
-*Capability template · Real estate · Finance and accounting · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/rent-roll-to-lease-abstract-match/)*
+*Workflow template · Real estate · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/rent-roll-to-lease-abstract-match/)*
 
 ## The outcome
 
@@ -38,7 +38,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/), when a property changes hands and the incoming team needs to know the roll can be trusted.
 - [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/), where many properties report on a fixed rhythm and a bad roll is costly.
 
-It is a different piece of work from [receivables exception review](https://fullypowered.ai/capabilities/receivables-exception-review/), which examines what tenants have paid, and from [weekly receivables summary](https://fullypowered.ai/capabilities/weekly-receivables-summary/), which reports on money owed. This one checks the recorded terms behind the rent, before any money is considered.
+It is a different piece of work from [receivables exception review](https://fullypowered.ai/workflows/receivables-exception-review/), which examines what tenants have paid, and from [weekly receivables summary](https://fullypowered.ai/workflows/weekly-receivables-summary/), which reports on money owed. This one checks the recorded terms behind the rent, before any money is considered.
 
 ## What has to change for your company
 
@@ -46,7 +46,7 @@ Match the column headers to your rent roll and abstract exports, or rename the c
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in one run in Claude; the record is published with it. The ambiguities that run found are settled in the template or listed there as open, and the small edits made afterward have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in one run in Claude; the record is published with it. The ambiguities that run found are settled in the template or listed there as open, and the small edits made afterward have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past month your lease administrator already knows, with cases written in advance: a unit missing from one side, an amendment the roll never picked up, a free-rent period. The property accountant checks every difference against the lease file before anyone relies on the list.
 
@@ -59,11 +59,11 @@ Testing in your environment means running it on a past month your lease administ
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -73,12 +73,12 @@ Testing in your environment means running it on a past month your lease administ
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Receivables exception review](https://fullypowered.ai/capabilities/receivables-exception-review/)
-- [Bank reconciliation preparation](https://fullypowered.ai/capabilities/bank-reconciliation-preparation/)
-- [Month-end close checklist](https://fullypowered.ai/capabilities/month-end-close-checklist/)
+- [Receivables exception review](https://fullypowered.ai/workflow templates/receivables-exception-review/)
+- [Bank reconciliation preparation](https://fullypowered.ai/workflow templates/bank-reconciliation-preparation/)
+- [Month-end close checklist](https://fullypowered.ai/workflow templates/month-end-close-checklist/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

@@ -88,7 +88,7 @@ Endorsement pages supplied: 2 pages. Form wording reads "Blanket
 
 Vendor D has no certificate.
 
-## What the capability returned
+## What the workflow template returned
 
 **VENDOR INSURANCE CERTIFICATE CHECK: Buildings 1 and 2, as of 16 November 2026**
 

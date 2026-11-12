@@ -1,6 +1,6 @@
 # Rent roll to lease abstract match
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -97,7 +97,7 @@ When a section is empty, print "None." after its heading. Never leave a section 
 
 ## Acceptance tests
 
-Proposed tests. Tests 1 to 5 and 7 to 9 were run once on the invented example (see the trial record published with this capability template); test 6 was not run, because the example has no amendment effective after its as-of date; tests 10 to 12 were not tried.
+Proposed tests. Tests 1 to 5 and 7 to 9 were run once on the invented example (see the trial record published with this workflow template); test 6 was not run, because the example has no amendment effective after its as-of date; tests 10 to 12 were not tried.
 
 1. **Clean unit.** All four fields match. Expected: counted under Matched, no mention elsewhere.
 2. **Rent difference, no amendment.** Roll 3,900.00, abstract 3,750.00. Expected: difference, roll higher by 150.00, "No amendment on file".

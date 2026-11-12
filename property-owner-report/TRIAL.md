@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-This was one run of the capability template on its own invented example. The inputs are the invented data for Property X in `public/example.md` ("What the person supplies"); no client data was used. The run was made by a model that did not write the template. The inputs were read first and the example's published output was read only after the output below was produced. The text of the template's instruction block and output format was followed as written, without adding anything by hand.
+This was one run of the workflow template on its own invented example. The inputs are the invented data for Property X in `public/example.md` ("What the person supplies"); no client data was used. The run was made by a model that did not write the template. The inputs were read first and the example's published output was read only after the output below was produced. The text of the template's instruction block and output format was followed as written, without adding anything by hand.
 
 ## What came out
 

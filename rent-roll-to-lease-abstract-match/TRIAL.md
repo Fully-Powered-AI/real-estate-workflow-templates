@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented Property X example published with this capability template. No client data was used. I followed the template's instruction block and output format on the example's three input lists (rent roll, verified lease abstracts, amendment register) and settings (exact match, as-of date 2026-11-01). No charge schedules were supplied. I produced my output before reading the example's output, then compared the two.
+The inputs were the invented Property X example published with this workflow template. No client data was used. I followed the template's instruction block and output format on the example's three input lists (rent roll, verified lease abstracts, amendment register) and settings (exact match, as-of date 2026-11-01). No charge schedules were supplied. I produced my output before reading the example's output, then compared the two.
 
 ## What came out
 
