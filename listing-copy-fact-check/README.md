@@ -2,7 +2,7 @@
 
 The listing agent or marketing lead gets draft listing copy in which every statement is tied to the property sheet, a measurement or a photo, with unsupported descriptions marked and kept out. The listing broker approves; the designated reviewer checks advertising requirements.
 
-*Workflow template · Real estate · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/listing-copy-fact-check/)*
+*Workflow template · Real estate · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/listing-copy-fact-check/)*
 
 ## The outcome
 
@@ -74,9 +74,9 @@ Testing in your environment means running it on past listings whose facts your b
 
 ## Related workflow templates
 
-- [Copy edit with a change list](https://fullypowered.ai/workflow templates/copy-edit-with-a-change-list/)
-- [Store facts file](https://fullypowered.ai/workflow templates/store-facts-file/)
-- [Obsolete copy check](https://fullypowered.ai/workflow templates/obsolete-copy-check/)
+- [Copy edit with a change list](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/)
+- [Store facts file](https://fullypowered.ai/workflows/store-facts-file/)
+- [Obsolete copy check](https://fullypowered.ai/workflows/obsolete-copy-check/)
 
 ## Make it yours
 

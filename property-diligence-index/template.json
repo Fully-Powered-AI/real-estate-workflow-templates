@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "The transaction lead gets a diligence room in order: every document indexed by workstream, every checklist item and request tracked, and every open finding tied to the report or request that raised it. Specialists judge the findings; nothing is valued or sent.",
-  "directory": "https://fullypowered.ai/workflow templates/property-diligence-index/",
+  "directory": "https://fullypowered.ai/workflows/property-diligence-index/",
   "primary_function": "functions/project-and-delivery",
   "functions": [
     "functions/project-and-delivery",

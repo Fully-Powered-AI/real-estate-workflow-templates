@@ -2,7 +2,7 @@
 
 Between one tenant and the next, the property manager gets one page for the unit: every recorded repair, the cleaning, keys, utilities and vendor confirmations still open against the approved move-in date, each gap written as a question. Nothing is sent.
 
-*Workflow template · Real estate · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/unit-turnover-readiness-checklist/)*
+*Workflow template · Real estate · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/unit-turnover-readiness-checklist/)*
 
 ## The outcome
 
@@ -78,9 +78,9 @@ Testing in your environment means running it on two or three past turnovers your
 
 ## Related workflow templates
 
-- [Preventive maintenance plan](https://fullypowered.ai/workflow templates/preventive-maintenance-plan/)
-- [Project handover readiness check](https://fullypowered.ai/workflow templates/project-handover-readiness-check/)
-- [Supplier delivery date check](https://fullypowered.ai/workflow templates/supplier-delivery-date-check/)
+- [Preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/)
+- [Project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/)
+- [Supplier delivery date check](https://fullypowered.ai/workflows/supplier-delivery-date-check/)
 
 ## Make it yours
 

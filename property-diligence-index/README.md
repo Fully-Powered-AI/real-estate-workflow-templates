@@ -2,7 +2,7 @@
 
 The transaction lead gets a diligence room in order: every document indexed by workstream, every checklist item and request tracked, and every open finding tied to the report or request that raised it. Specialists judge the findings; nothing is valued or sent.
 
-*Workflow template · Real estate · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/property-diligence-index/)*
+*Workflow template · Real estate · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/property-diligence-index/)*
 
 ## The outcome
 
@@ -77,11 +77,11 @@ Testing in your environment means running it on a closed deal your team already 
 
 ## Related workflow templates
 
-- [Audit evidence index](https://fullypowered.ai/workflow templates/audit-evidence-index/)
-- [Vendor quote comparison](https://fullypowered.ai/workflow templates/vendor-quote-comparison/)
-- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
-- [Lender draw package index](https://fullypowered.ai/workflow templates/lender-draw-package-index/)
-- [Client document request tracker](https://fullypowered.ai/workflow templates/client-document-request-tracker/)
+- [Audit evidence index](https://fullypowered.ai/workflows/audit-evidence-index/)
+- [Vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/)
+- [Lender draw package index](https://fullypowered.ai/workflows/lender-draw-package-index/)
+- [Client document request tracker](https://fullypowered.ai/workflows/client-document-request-tracker/)
 
 ## Make it yours
 

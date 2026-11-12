@@ -2,7 +2,7 @@
 
 A property manager gets the month's owner report drafted from the statements and logs they supply: occupancy, collections, open maintenance and the decisions the owner is asked to make, each statement traced to its source and each gap shown.
 
-*Workflow template · Real estate · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/property-owner-report/)*
+*Workflow template · Real estate · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/property-owner-report/)*
 
 ## The outcome
 
@@ -79,8 +79,8 @@ Testing in your environment means running it on a past month the property manage
 ## Related workflow templates
 
 - [Rent roll to lease abstract match](../rent-roll-to-lease-abstract-match/)
-- [Weekly owner business brief](https://fullypowered.ai/workflow templates/weekly-owner-business-brief/)
-- [Client-status update preparation](https://fullypowered.ai/workflow templates/client-status-update-preparation/)
+- [Weekly owner business brief](https://fullypowered.ai/workflows/weekly-owner-business-brief/)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
 
 ## Make it yours
 

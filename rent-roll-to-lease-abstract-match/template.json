@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Your property accountant gets the rent roll checked against the verified lease abstracts and amendments, unit by unit: rent, area, commencement and expiration, with every difference listed for review. It compares supplied fields only and corrects nothing.",
-  "directory": "https://fullypowered.ai/workflow templates/rent-roll-to-lease-abstract-match/",
+  "directory": "https://fullypowered.ai/workflows/rent-roll-to-lease-abstract-match/",
   "primary_function": "functions/finance-and-accounting",
   "functions": [
     "functions/finance-and-accounting"

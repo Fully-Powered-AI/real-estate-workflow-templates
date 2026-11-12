@@ -2,7 +2,7 @@
 
 Your property accountant gets the rent roll checked against the verified lease abstracts and amendments, unit by unit: rent, area, commencement and expiration, with every difference listed for review. It compares supplied fields only and corrects nothing.
 
-*Workflow template · Real estate · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/rent-roll-to-lease-abstract-match/)*
+*Workflow template · Real estate · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/rent-roll-to-lease-abstract-match/)*
 
 ## The outcome
 
@@ -75,9 +75,9 @@ Testing in your environment means running it on a past month your lease administ
 
 ## Related workflow templates
 
-- [Receivables exception review](https://fullypowered.ai/workflow templates/receivables-exception-review/)
-- [Bank reconciliation preparation](https://fullypowered.ai/workflow templates/bank-reconciliation-preparation/)
-- [Month-end close checklist](https://fullypowered.ai/workflow templates/month-end-close-checklist/)
+- [Receivables exception review](https://fullypowered.ai/workflows/receivables-exception-review/)
+- [Bank reconciliation preparation](https://fullypowered.ai/workflows/bank-reconciliation-preparation/)
+- [Month-end close checklist](https://fullypowered.ai/workflows/month-end-close-checklist/)
 
 ## Make it yours
 

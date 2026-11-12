@@ -2,7 +2,7 @@
 
 For a property manager collecting insurance certificates from service vendors: each certificate's fields set beside the requirements the team already approved, every stated expiration date listed, and draft requests for what is missing. The manager reviews gaps with the insurance adviser before accepting anything.
 
-*Workflow template · Real estate · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/vendor-insurance-certificate-check/)*
+*Workflow template · Real estate · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/vendor-insurance-certificate-check/)*
 
 ## The outcome
 
@@ -99,9 +99,9 @@ Testing in your environment means running it on a few vendors whose certificates
 
 ## Related workflow templates
 
-- [Contractor safety prequalification](https://fullypowered.ai/workflow templates/contractor-safety-prequalification/)
-- [Business insurance renewal review](https://fullypowered.ai/workflow templates/business-insurance-renewal-review/)
-- [Vendor renewal review](https://fullypowered.ai/workflow templates/vendor-renewal-review/)
+- [Contractor safety prequalification](https://fullypowered.ai/workflows/contractor-safety-prequalification/)
+- [Business insurance renewal review](https://fullypowered.ai/workflows/business-insurance-renewal-review/)
+- [Vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/)
 
 ## Make it yours
 
