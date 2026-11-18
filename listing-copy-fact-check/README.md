@@ -45,11 +45,11 @@ Write your own advertising guidelines as a short list the reviewer recognizes, a
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template and reviewed it editorially. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. A first run was followed by an independent review the same day; the points it found were settled and the template was run again on the changed example, and the record says so. Any fix made after that second run has not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template and reviewed it editorially. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. A first run was followed by an independent review the same day; the points it found were settled and the template was run again on the changed example, and the record says so. Any fix made after that second run has not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on past listings whose facts your broker already knows, with cases written in advance: a feature the sheet contradicts, an amenity nobody has confirmed, a number with no measurement behind it. The broker checks every line against the record before the copy is used. The workflow template does not decide whether any wording meets an advertising requirement; your designated reviewer does.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -80,4 +80,4 @@ Testing in your environment means running it on past listings whose facts your b
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

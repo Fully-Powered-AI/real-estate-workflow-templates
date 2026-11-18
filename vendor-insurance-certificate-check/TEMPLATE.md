@@ -251,5 +251,5 @@ change a figure or a date to make a line match.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI from its own published map of the work. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Not yet tested in a client environment.
 - Revised after review, 10 November 2026: the instruction block now carries every rule it needs; the glance line gains a documents-to-request count; a Below or Not comparable limit goes to the adviser only and is left out of the vendor's draft; rules added for close coverage names, a basis of n/a, tied expiry dates, endorsement page counts, the received date, the holder wording in a no-certificate request and the wording of a confirmation; a coverage ending today is Expiring within the window with 0 days left. Known gaps: the workflow template still cannot tell whether two differently worded names are one business, and a vendor whose only gap is a Below limit receives no request until the manager decides.

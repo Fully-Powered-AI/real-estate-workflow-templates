@@ -26,7 +26,7 @@
     "vendor-renewal-review"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-10",
     "package_format_valid": true,
@@ -42,7 +42,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own published map of property-certificate review: a field comparison against requirements the team has already approved, a list of stated expiration dates and draft requests for missing documents."
+      "title": "FullyPowered AI's own published map of property-certificate review: a field comparison against requirements the team has already approved, a list of stated expiration dates and draft requests for missing documents."
     }
   ]
 }

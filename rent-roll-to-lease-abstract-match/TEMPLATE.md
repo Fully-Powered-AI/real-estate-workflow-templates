@@ -188,5 +188,5 @@ lease administrator decide.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Not yet tested in a client environment.
 - Revised after review, 10 November 2026: a date gap is given in days; a unit with both a difference and a flag is counted under Differences and also listed under Flagged; fields blank on one side have their own list and are not counted as units; the instruction block now carries every rule the procedure has. Settled from the trial: a field is named by the roll's column header; an unapplied amendment is listed only under Amendments not applied, not repeated on a Matched unit. The edits since the trial run have not been run again.

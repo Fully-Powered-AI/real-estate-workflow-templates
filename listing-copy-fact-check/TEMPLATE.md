@@ -232,4 +232,4 @@ remove them.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI from its own published map of the work. Editorially reviewed. Tried on its invented example in Claude on 10 November 2026; the record is published with it (`public/trial.md`). Changes made after an independent review the same day were run again on the same example, and the record says so. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Editorially reviewed. Tried on its invented example in Claude on 10 November 2026; the record is published with it (`public/trial.md`). Changes made after an independent review the same day were run again on the same example, and the record says so. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
