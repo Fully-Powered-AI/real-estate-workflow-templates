@@ -18,7 +18,7 @@ The property accountant or the lease administrator starts it when a monthly rent
 
 ## What they supply
 
-- The rent roll export for the property, with its as-of date.
+- The rent roll export for the property, with its as-of date, from your property management system.
 - The verified lease abstracts, one row per unit.
 - The register of executed amendments, each marked verified or not, with its effective date.
 - Optionally, the charge schedules, to settle which rent figure belongs in a flagged case.
