@@ -1,0 +1,46 @@
+{
+  "id": "transaction-deadline-check",
+  "name": "Transaction deadline check",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Every Monday, and whenever a contract is amended, the transaction coordinator gets one page from the open-transactions export: what falls due soon, by agent; what has passed with no completion recorded; which dates are missing or impossible; and a question for each agent. It reads dates as recorded and counts none.",
+  "directory": "https://fullypowered.ai/workflows/transaction-deadline-check/",
+  "primary_function": "functions/operations-and-process-improvement",
+  "functions": [
+    "functions/operations-and-process-improvement",
+    "functions/sales"
+  ],
+  "industries": [
+    "industries/real-estate",
+    "industries/finance-and-investment"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "unit-turnover-readiness-checklist",
+    "obligation-and-filing-calendar-review",
+    "supplier-delivery-date-check"
+  ],
+  "evidence": {
+    "written_by": "FullyPowered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-19",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-19",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "FullyPowered AI's own original method for a brokerage's weekly check of recorded transaction milestones."
+    }
+  ]
+}

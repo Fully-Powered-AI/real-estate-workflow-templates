@@ -36,6 +36,14 @@
       "directory": "https://fullypowered.ai/workflows/rent-roll-to-lease-abstract-match/"
     },
     {
+      "id": "transaction-deadline-check",
+      "name": "Transaction deadline check",
+      "version": "0.1.0",
+      "summary": "Every Monday, and whenever a contract is amended, the transaction coordinator gets one page from the open-transactions export: what falls due soon, by agent; what has passed with no completion recorded; which dates are missing or impossible; and a question for each agent. It reads dates as recorded and counts none.",
+      "path": "transaction-deadline-check/",
+      "directory": "https://fullypowered.ai/workflows/transaction-deadline-check/"
+    },
+    {
       "id": "unit-turnover-readiness-checklist",
       "name": "Unit turnover readiness checklist",
       "version": "0.1.0",
