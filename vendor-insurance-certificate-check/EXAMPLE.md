@@ -1,6 +1,6 @@
-# Vendor insurance certificate check: an invented example
+# Vendor insurance certificate check: an example
 
-*Illustrative example with invented data.* The management company, the owner, the vendors, the insurers, the producers, the policy numbers, the dates and every figure below are invented. The property manager at an invented management company is checking the certificates of four service vendors across two buildings. Nothing here is a real organization's record.
+*Illustrative example with sample data.* The management company, the owner, the vendors, the insurers, the producers, the policy numbers, the dates and every figure below are illustrative. The property manager at an illustrative management company is checking the certificates of four service vendors across two buildings. Nothing here is a real organization's record.
 
 ## The inputs
 

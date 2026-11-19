@@ -1,10 +1,10 @@
-# Property diligence index: one trial on the invented example
+# Property diligence index: one trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example only: Quillfeather Property Group, Linden Court Apartments and every date, document and note in them are made up. No client data was used. This record replaces an earlier record of a first run made the same day, after an independent review asked for fixed flag wording, a "No due date" form, full stops on the decision lines and an Items raised field on request lines. The first run's output differed from the example in those places; the instructions were then changed, and this is a run of the changed instructions.
+The inputs were the example only: Quillfeather Property Group, Linden Court Apartments and every date, document and note in them are made up. No client data was used. This record replaces an earlier record of a first run made the same day, after an independent review asked for fixed flag wording, a "No due date" form, full stops on the decision lines and an Items raised field on request lines. The first run's output differed from the example in those places; the instructions were then changed, and this is a run of the changed instructions.
 
 ## Independence
 
@@ -136,7 +136,7 @@ This index, built from the lists supplied for Linden Court purchase, shows what 
   - The pasted instruction block shortens several rules. The longer procedure in the template was used to settle each doubt.
 - Tests not exercised: the example exercises acceptance tests 1 to 5, 8, 10 and 11 in effect. Tests 6, 7, 9 and 12 to 14 (marked received with no document, withdrawn only, two sources, a misspelled workstream, a changed header, being asked if the file is clean) were not exercised.
 - The template has not been run on messy or large lists, and nothing here says how it behaves with them.
-- This is one run on an invented example. It shows the changed instructions can be followed to the example's result. It does not show how the template performs on a real deal, and it has not been tested in a client environment.
+- This is one run on an example. It shows the changed instructions can be followed to the example's result. It does not show how the template performs on a real deal, and it has not been tested in a client environment.
 
 ## Changes made to the instructions after this run
 

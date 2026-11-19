@@ -1,8 +1,8 @@
-# Listing copy fact check: an invented example
+# Listing copy fact check: an example
 
-*Illustrative example with invented data.* The property, the people and every figure below are invented. The brokerage and the measurer appear only as letters.
+*Illustrative example with sample data.* The property, the people and every figure below are illustrative. The brokerage and the measurer appear only as letters.
 
-**Setting.** The listing agent at Brokerage X is preparing a rental listing for Unit 4C at an invented building, Fernhollow Lofts. The run date is 12 November 2026. The listing broker is Broker A and the designated reviewer is Reviewer A.
+**Setting.** The listing agent at Brokerage X is preparing a rental listing for Unit 4C at an illustrative building, Fernhollow Lofts. The run date is 12 November 2026. The listing broker is Broker A and the designated reviewer is Reviewer A.
 
 ## What the person supplies
 

@@ -1,4 +1,4 @@
-# Trial: Listing copy fact check, run on its invented example
+# Trial: Listing copy fact check, run on its example
 
 - **Product:** Claude, run in Claude Code
 
@@ -6,7 +6,7 @@ Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). Date: 2026-11-10
 
 This is the second run. The first run, earlier the same day, was followed by an independent review that found the example and the template out of step: the example treated photos as viewed while only labels were given, two statements were numbered out of order, and one example sentence went beyond its photo label. The template and the example were changed to settle those points, and the template was then run again on the changed example. This second run was made by the assistant that made those changes, which therefore knew the template; the run below follows the instruction block as it now stands. The first run's record is replaced by this one. Its findings are summarised under "What the first run found".
 
-The inputs are the invented example in `public/example.md` (Unit 4C at Fernhollow Lofts, an invented building). No client data was used.
+The inputs are the example in `public/example.md` (Unit 4C at Fernhollow Lofts, an illustrative building). No client data was used.
 
 ## Inputs used
 

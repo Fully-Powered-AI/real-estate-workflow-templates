@@ -1,6 +1,6 @@
-# Property owner report: an invented example
+# Property owner report: an example
 
-*Illustrative example with invented data.* One monthly report for Property X, an invented ten-unit residential building. Every tenant, amount and note below is invented.
+*Illustrative example with sample data.* One monthly report for Property X, an illustrative ten-unit residential building. Every tenant, amount and note below is illustrative.
 
 ## What the person supplies
 

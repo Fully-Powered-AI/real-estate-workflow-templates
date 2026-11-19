@@ -132,7 +132,7 @@ Write dates as day, month name, year. In the Count line, "Received, check first"
 
 ## Acceptance tests
 
-Proposed tests. None has been run as a test in its own right. The invented example exercises tests 1 to 5, 8, 10 and 11 in effect; the trial record says what it showed.
+Proposed tests. None has been run as a test in its own right. The example exercises tests 1 to 5, 8, 10 and 11 in effect; the trial record says what it showed.
 
 1. **Clean document.** A document with matching page counts, a checklist item and a request, no other version. Expected: no flags; checklist item Received; no timing.
 2. **Missing pages.** Stated 14, received 12. Expected: Pages incomplete, 2 missing; checklist item Received, check first.
@@ -250,4 +250,4 @@ decline and report what is indexed and what is open.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Tried on its invented example on 10 November 2026 in Claude, in one run; the record is published with it. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Tried on its example on 10 November 2026 in Claude, in one run; the record is published with it. Not yet tested in a client environment.

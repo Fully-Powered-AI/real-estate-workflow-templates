@@ -1,6 +1,6 @@
-# Rent roll to lease abstract match: an invented example
+# Rent roll to lease abstract match: an example
 
-*Illustrative example with invented data.* One monthly review at Property X, an invented eight-tenant office building. Every tenant and amendment below is invented.
+*Illustrative example with sample data.* One monthly review at Property X, an illustrative eight-tenant office building. Every tenant and amendment below is illustrative.
 
 ## What the person supplies
 

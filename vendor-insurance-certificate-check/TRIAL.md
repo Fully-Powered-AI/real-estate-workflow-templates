@@ -1,10 +1,10 @@
-# Vendor insurance certificate check: tried on its invented example (second run)
+# Vendor insurance certificate check: tried on its example (second run)
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (`claude-sonnet-5-5`)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [example.md](example.md) (four vendors, two buildings, one requirement sheet). No client data was used.
+The inputs are the example in [example.md](example.md) (four vendors, two buildings, one requirement sheet). No client data was used.
 
 This is the second run. The first run, earlier on 10 November 2026, was a single attempt by a model that did not write the template; it found eleven places where the template was silent or disagreed with the example. The template, the instruction block and the example were then changed (see "What was changed after the first run"), and this record replaces the first. This second run was made by the same model that made the changes, so it is not independent of them. It was given only the instruction block and the output format from `member/template.md`, which is what the released technical file carries, and the example's inputs. It produced its own output before the example's output was compared.
 

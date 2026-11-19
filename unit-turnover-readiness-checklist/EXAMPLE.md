@@ -1,6 +1,6 @@
-# Unit turnover readiness checklist: an invented example
+# Unit turnover readiness checklist: an example
 
-*Illustrative example with invented data.* The property, the unit, the vendors, the dates and every record below are invented. Quillon Yard Apartments is an invented 40-unit building. Its property manager runs the turnover of unit 4B between two tenants. Vendors appear as letters, and the incoming tenant is not named.
+*Illustrative example with sample data.* The property, the unit, the vendors, the dates and every record below are illustrative. Quillon Yard Apartments is an illustrative 40-unit building. Its property manager runs the turnover of unit 4B between two tenants. Vendors appear as letters, and the incoming tenant is not named.
 
 The inputs come first, in full, so the template can be run on them. The checklist follows.
 

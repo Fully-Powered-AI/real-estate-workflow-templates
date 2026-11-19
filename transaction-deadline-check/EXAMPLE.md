@@ -1,6 +1,6 @@
-# Transaction deadline check: an invented example
+# Transaction deadline check: an example
 
-*Illustrative example with invented data.* Brokerage X is an invented brokerage with residential and commercial work. Its transaction coordinator runs the Monday check. The agents appear as letters, the properties are invented, and no buyer, seller or tenant is named. Every row and date below is invented.
+*Illustrative example with sample data.* Brokerage X is an illustrative brokerage with residential and commercial work. Its transaction coordinator runs the Monday check. The agents appear as letters, the properties are illustrative, and no buyer, seller or tenant is named. Every row and date below is illustrative.
 
 The inputs come first, in full, so the workflow template can be run on them. The page follows.
 

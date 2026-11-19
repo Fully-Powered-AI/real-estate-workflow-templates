@@ -1,10 +1,10 @@
-# Rent roll to lease abstract match: a trial on the invented example
+# Rent roll to lease abstract match: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented Property X example published with this workflow template. No client data was used. I followed the template's instruction block and output format on the example's three input lists (rent roll, verified lease abstracts, amendment register) and settings (exact match, as-of date 2026-11-01). No charge schedules were supplied. I produced my output before reading the example's output, then compared the two.
+The inputs were the illustrative Property X example published with this workflow template. No client data was used. I followed the template's instruction block and output format on the example's three input lists (rent roll, verified lease abstracts, amendment register) and settings (exact match, as-of date 2026-11-01). No charge schedules were supplied. I produced my output before reading the example's output, then compared the two.
 
 ## What came out
 
@@ -63,7 +63,7 @@ Prepared for the property accountant and lease administrator to review. The roll
 - The `Field` name in amendments (`Expiration Date`) differs from the roll's column (`Lease End`); the template does not say how to label this in the output.
 - The template's acceptance tests are marked as proposed and none has been run; this trial covers tests 1 to 5 and 7 to 9 only, on one run. Test 6 (future-dated amendment) was not run, because the example has no amendment effective after its as-of date; tests 10 to 12 (header mismatch, conflicting amendments, asked to fix the roll) were not tried.
 
-This is one run by one model on invented data. It shows the instructions can be followed to the example's result; it is not a test in a client environment.
+This is one run by one model on sample data. It shows the instructions can be followed to the example's result; it is not a test in a client environment.
 
 ## Edits made after this run
 

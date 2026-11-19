@@ -8,7 +8,7 @@ Get draft listing copy where every statement is tied to the property sheet, a me
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Real estate · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/listing-copy-fact-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-listing-copy-fact-check&from=gh-real-estate-listing-copy-fact-check)*
@@ -37,7 +37,7 @@ The listing agent or the marketing lead runs it when a new listing or brochure i
 
 One review in a fixed order. The draft copy comes first, holding only statements the record supports. Then the supplied draft with a mark after each statement, the fact checklist with one entry per statement and its source, what was held out and what would settle it, the items for the designated reviewer, and counts. Where a section is empty, it says so.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -54,7 +54,7 @@ Write your own advertising guidelines as a short list the reviewer recognizes, a
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template and reviewed it editorially. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. A first run was followed by an independent review the same day; the points it found were settled and the template was run again on the changed example, and the record says so. Any fix made after that second run has not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template and reviewed it editorially. It was tried on its example in Claude on 10 November 2026; the record is published with it. A first run was followed by an independent review the same day; the points it found were settled and the template was run again on the changed example, and the record says so. Any fix made after that second run has not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on past listings whose facts your broker already knows, with cases written in advance: a feature the sheet contradicts, an amenity nobody has confirmed, a number with no measurement behind it. The broker checks every line against the record before the copy is used. The workflow template does not decide whether any wording meets an advertising requirement; your designated reviewer does.
 
@@ -62,13 +62,13 @@ Testing in your environment means running it on past listings whose facts your b
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in `public/example.md` (the settings, the move-out record, the turnover checklist and the vendor and work updates). No client data was used. The run was done by an assistant that had not written the template. It read the member template and only the example's inputs, followed the instruction block and the output format, and produced the output below. Only then was the output compared with the published example's output.
+The inputs were the example in `public/example.md` (the settings, the move-out record, the turnover checklist and the vendor and work updates). No client data was used. The run was done by an assistant that had not written the template. It read the member template and only the example's inputs, followed the instruction block and the output format, and produced the output below. Only then was the output compared with the published example's output.
 
 ## What came out
 
@@ -92,7 +92,7 @@ Draft for the property manager. Nothing has been verified, booked, sent or chang
   4. The rule to refer to a finding by its ID only when a note names a tenant in a dispute does not say what to do when the finding text only mentions a role ("former tenant"). This run kept the finding's words, as supplied, without any name.
   5. "Blocked" updates are not covered by the "awaiting vendor confirmation" flag, which is limited to booked, in progress or not started. This run did not flag R5 for it. The example agrees.
 - **Facts not in the inputs:** none found in this run's output. In the published example, every fact traced back to the inputs. The weekday names, the day counts and the observation that R10 is not on the record are all derived, and were checked by hand against the calendar.
-- **Limits of this record.** It is one run, by one product, on invented data, with a reader who then checked it against the answer. It says nothing about how the template behaves on a real property manager's files or in another product.
+- **Limits of this record.** It is one run, by one product, on sample data, with a reader who then checked it against the answer. It says nothing about how the template behaves on a real property manager's files or in another product.
 
 ## Edits made after this run, not run again
 

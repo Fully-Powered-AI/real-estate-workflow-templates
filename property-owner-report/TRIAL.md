@@ -1,10 +1,10 @@
-# Property owner report: one trial on the invented example
+# Property owner report: one trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-This was one run of the workflow template on its own invented example. The inputs are the invented data for Property X in `public/example.md` ("What the person supplies"); no client data was used. The run was made by a model that did not write the template. The inputs were read first and the example's published output was read only after the output below was produced. The text of the template's instruction block and output format was followed as written, without adding anything by hand.
+This was one run of the workflow template on its own example. The inputs are the sample data for Property X in `public/example.md` ("What the person supplies"); no client data was used. The run was made by a model that did not write the template. The inputs were read first and the example's published output was read only after the output below was produced. The text of the template's instruction block and output format was followed as written, without adding anything by hand.
 
 ## What came out
 
@@ -92,7 +92,7 @@ Every statement carries its source tag; sources used: S, L, C, W, P, N1 to N8. T
   - How to describe the example's unit 108 half-payment: the note says "half" but 1,000.00 of 2,050.00 is a little under half; I quoted the figures.
   - The "Prepared" line asks for each input "with its as-of date or period", but manager notes have none.
 - **A defect the example did not exercise.** The collections report charged unit 105 1,500.00 while the tracker's Monthly Rent is 1,800.00 (a move-in on 5 October, so probably a part month). The template says Monthly Rent is not used, so nothing was flagged. That seems right for this report, but the template does not say whether to mention such a difference.
-- **Limits of this trial.** One run, by one model, on one invented month with no stop conditions in it. The acceptance tests in the template (stale summary, header mismatch, asked to send and the others) were not run. Nothing here shows how the template behaves on a real client's exports. The template stays labelled as tried on an invented example, not tested for a client.
+- **Limits of this trial.** One run, by one model, on one illustrative month with no stop conditions in it. The acceptance tests in the template (stale summary, header mismatch, asked to send and the others) were not run. Nothing here shows how the template behaves on a real client's exports. The template stays labelled as tried on an example, not tested for a client.
 
 ## Edits made after this run
 

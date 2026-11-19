@@ -1,10 +1,10 @@
-# Transaction deadline check: one trial on the invented example
+# Transaction deadline check: one trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-19
 
-The inputs are the invented example in [`example.md`](example.md): the settings, this week's export of eight open transactions and last week's export of eight. No client data was used. The run took the instruction block and the output format from the template and followed them as written. The page below was produced before the example's own page was read; the comparison came afterwards. One run, one product, one date: this shows the template can be followed on this example, not that it works for any brokerage's real export.
+The inputs are the example in [`example.md`](example.md): the settings, this week's export of eight open transactions and last week's export of eight. No client data was used. The run took the instruction block and the output format from the template and followed them as written. The page below was produced before the example's own page was read; the comparison came afterwards. One run, one product, one date: this shows the template can be followed on this example, not that it works for any brokerage's real export.
 
 ## What came out
 
