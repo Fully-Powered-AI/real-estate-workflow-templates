@@ -1,10 +1,17 @@
 # Property owner report
 
-A property manager gets the month's owner report drafted from the statements and logs they supply: occupancy, collections, open maintenance and the decisions the owner is asked to make, each statement traced to its source and each gap shown.
+Draft the month's owner report from your statements and logs, each statement traced to its source and each gap shown. A person verifies it first.
 
-*Workflow template · Real estate · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/property-owner-report/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Property owner report on our website](https://fullypowered.ai/workflows/property-owner-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-owner-report&from=gh-real-estate-property-owner-report) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/property-owner-report/?from=gh-real-estate-property-owner-report)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Real estate · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/property-owner-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-owner-report&from=gh-real-estate-property-owner-report)*
 
 ## The outcome
 
@@ -36,14 +43,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Real estate](https://fullypowered.ai/industries/real-estate/), where the building's owner expects the same account of the property every month.
-- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/), where an asset manager or fund receives reports from several managers and needs them in one shape.
-- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/), which owns the recurring report that goes to the owner, the client, under a manager's name.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which stands behind the collections and statement figures.
-- [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/), where owners compare properties on a fixed rhythm.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where a long-serving manager keeps the owner relationship in their head and the report should live on a page.
+- [Real estate](https://fullypowered.ai/industries/real-estate/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-owner-report&from=gh-real-estate-property-owner-report), where the building's owner expects the same account of the property every month.
+- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-owner-report&from=gh-real-estate-property-owner-report), where an asset manager or fund receives reports from several managers and needs them in one shape.
+- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-owner-report&from=gh-real-estate-property-owner-report), which owns the recurring report that goes to the owner, the client, under a manager's name.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-owner-report&from=gh-real-estate-property-owner-report), which stands behind the collections and statement figures.
+- [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-owner-report&from=gh-real-estate-property-owner-report), where owners compare properties on a fixed rhythm.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-owner-report&from=gh-real-estate-property-owner-report), where a long-serving manager keeps the owner relationship in their head and the report should live on a page.
 
-It is a different piece of work from the [weekly owner business brief](https://fullypowered.ai/workflows/weekly-owner-business-brief/), which gives a business owner one page of cash, sales and pipeline each Monday, and from [client status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/), which reports on a project's progress and a client's open decisions. This one reports on a building, from its own statements and logs, to the person who owns it. For checking the rent roll against the lease record first, see [rent roll to lease abstract match](https://fullypowered.ai/workflows/rent-roll-to-lease-abstract-match/).
+It is a different piece of work from the [weekly owner business brief](https://fullypowered.ai/workflows/weekly-owner-business-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-owner-report&from=gh-real-estate-property-owner-report), which gives a business owner one page of cash, sales and pipeline each Monday, and from [client status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-owner-report&from=gh-real-estate-property-owner-report), which reports on a project's progress and a client's open decisions. This one reports on a building, from its own statements and logs, to the person who owns it. For checking the rent roll against the lease record first, see [rent roll to lease abstract match](https://fullypowered.ai/workflows/rent-roll-to-lease-abstract-match/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-owner-report&from=gh-real-estate-property-owner-report).
 
 ## What has to change for your company
 
@@ -53,7 +60,7 @@ Use your own report's order if the owner already expects one, and keep it fixed.
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026; the record is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past month the property manager and accountant already know, plus cases written in advance with their expected behavior: a stale work-order summary, a rent total that differs between the statement and the collections report, a lease that ended with no renewal on file, a decision carried from last month. They check every figure against the source before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past month the property manager and accountant already know, plus cases written in advance with their expected behavior: a stale work-order summary, a rent total that differs between the statement and the collections report, a lease that ended with no renewal on file, a decision carried from last month. They check every figure against the source before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-owner-report&from=gh-real-estate-property-owner-report) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-owner-report&from=gh-real-estate-property-owner-report) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -81,9 +88,9 @@ Testing in your environment means running it on a past month the property manage
 ## Related workflow templates
 
 - [Rent roll to lease abstract match](../rent-roll-to-lease-abstract-match/)
-- [Weekly owner business brief](https://fullypowered.ai/workflows/weekly-owner-business-brief/)
-- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
+- [Weekly owner business brief](https://fullypowered.ai/workflows/weekly-owner-business-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-owner-report&from=gh-real-estate-property-owner-report)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-owner-report&from=gh-real-estate-property-owner-report)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-owner-report&from=gh-real-estate-property-owner-report).

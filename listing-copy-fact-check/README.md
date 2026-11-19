@@ -1,10 +1,17 @@
 # Listing copy fact check
 
-The listing agent or marketing lead gets draft listing copy in which every statement is tied to the property sheet, a measurement or a photo, with unsupported descriptions marked and kept out. The listing broker approves; the designated reviewer checks advertising requirements.
+Get draft listing copy where every statement is tied to the property sheet, a measurement or a photo. The listing broker approves the copy.
 
-*Workflow template · Real estate · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/listing-copy-fact-check/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Listing copy fact check on our website](https://fullypowered.ai/workflows/listing-copy-fact-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-listing-copy-fact-check&from=gh-real-estate-listing-copy-fact-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/listing-copy-fact-check/?from=gh-real-estate-listing-copy-fact-check)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Real estate · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/listing-copy-fact-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-listing-copy-fact-check&from=gh-real-estate-listing-copy-fact-check)*
 
 ## The outcome
 
@@ -34,12 +41,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Real estate](https://fullypowered.ai/industries/real-estate/), where brokerages, leasing teams and property marketers write listings and brochures from the property record.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), for agencies that write property copy for clients and must show where each claim comes from.
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), which owns the copy and wants a source behind every line of it.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the number of listings outgrows one person's memory of each property.
+- [Real estate](https://fullypowered.ai/industries/real-estate/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-listing-copy-fact-check&from=gh-real-estate-listing-copy-fact-check), where brokerages, leasing teams and property marketers write listings and brochures from the property record.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-listing-copy-fact-check&from=gh-real-estate-listing-copy-fact-check), for agencies that write property copy for clients and must show where each claim comes from.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-listing-copy-fact-check&from=gh-real-estate-listing-copy-fact-check), which owns the copy and wants a source behind every line of it.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-listing-copy-fact-check&from=gh-real-estate-listing-copy-fact-check), when the number of listings outgrows one person's memory of each property.
 
-It is separate from [copy edit with a change list](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/), which tightens existing copy, and from [store facts file](https://fullypowered.ai/workflows/store-facts-file/), which keeps a store's facts in one place.
+It is separate from [copy edit with a change list](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-listing-copy-fact-check&from=gh-real-estate-listing-copy-fact-check), which tightens existing copy, and from [store facts file](https://fullypowered.ai/workflows/store-facts-file/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-listing-copy-fact-check&from=gh-real-estate-listing-copy-fact-check), which keeps a store's facts in one place.
 
 ## What has to change for your company
 
@@ -76,10 +83,10 @@ Testing in your environment means running it on past listings whose facts your b
 
 ## Related workflow templates
 
-- [Copy edit with a change list](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/)
-- [Store facts file](https://fullypowered.ai/workflows/store-facts-file/)
-- [Obsolete copy check](https://fullypowered.ai/workflows/obsolete-copy-check/)
+- [Copy edit with a change list](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-listing-copy-fact-check&from=gh-real-estate-listing-copy-fact-check)
+- [Store facts file](https://fullypowered.ai/workflows/store-facts-file/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-listing-copy-fact-check&from=gh-real-estate-listing-copy-fact-check)
+- [Obsolete copy check](https://fullypowered.ai/workflows/obsolete-copy-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-listing-copy-fact-check&from=gh-real-estate-listing-copy-fact-check)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-listing-copy-fact-check&from=gh-real-estate-listing-copy-fact-check).

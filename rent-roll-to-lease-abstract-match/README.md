@@ -1,10 +1,17 @@
 # Rent roll to lease abstract match
 
-Your property accountant gets the rent roll checked against the verified lease abstracts and amendments, unit by unit: rent, area, commencement and expiration, with every difference listed for review. It compares supplied fields only and corrects nothing.
+Check the rent roll against verified lease abstracts and amendments, unit by unit, with every difference listed. A person decides which record is wrong.
 
-*Workflow template · Real estate · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/rent-roll-to-lease-abstract-match/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Rent roll to lease abstract match on our website](https://fullypowered.ai/workflows/rent-roll-to-lease-abstract-match/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-rent-roll-to-lease-abstract-match&from=gh-rent-roll-to-lease-abstract-match) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/rent-roll-to-lease-abstract-match/?from=gh-rent-roll-to-lease-abstract-match)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Real estate · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/rent-roll-to-lease-abstract-match/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-rent-roll-to-lease-abstract-match&from=gh-rent-roll-to-lease-abstract-match)*
 
 ## The outcome
 
@@ -34,13 +41,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Real estate](https://fullypowered.ai/industries/real-estate/), where the rent roll feeds owner reports, lender packages and every valuation discussion.
-- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/), where an asset manager or lender receives a rent roll and wants it tied to the lease file.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which owns the rent roll as an accounting record.
-- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/), when a property changes hands and the incoming team needs to know the roll can be trusted.
-- [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/), where many properties report on a fixed rhythm and a bad roll is costly.
+- [Real estate](https://fullypowered.ai/industries/real-estate/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-rent-roll-to-lease-abstract-match&from=gh-rent-roll-to-lease-abstract-match), where the rent roll feeds owner reports, lender packages and every valuation discussion.
+- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-rent-roll-to-lease-abstract-match&from=gh-rent-roll-to-lease-abstract-match), where an asset manager or lender receives a rent roll and wants it tied to the lease file.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-rent-roll-to-lease-abstract-match&from=gh-rent-roll-to-lease-abstract-match), which owns the rent roll as an accounting record.
+- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-rent-roll-to-lease-abstract-match&from=gh-rent-roll-to-lease-abstract-match), when a property changes hands and the incoming team needs to know the roll can be trusted.
+- [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-rent-roll-to-lease-abstract-match&from=gh-rent-roll-to-lease-abstract-match), where many properties report on a fixed rhythm and a bad roll is costly.
 
-It is a different piece of work from [receivables exception review](https://fullypowered.ai/workflows/receivables-exception-review/), which examines what tenants have paid, and from [weekly receivables summary](https://fullypowered.ai/workflows/weekly-receivables-summary/), which reports on money owed. This one checks the recorded terms behind the rent, before any money is considered.
+It is a different piece of work from [receivables exception review](https://fullypowered.ai/workflows/receivables-exception-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-rent-roll-to-lease-abstract-match&from=gh-rent-roll-to-lease-abstract-match), which examines what tenants have paid, and from [weekly receivables summary](https://fullypowered.ai/workflows/weekly-receivables-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-rent-roll-to-lease-abstract-match&from=gh-rent-roll-to-lease-abstract-match), which reports on money owed. This one checks the recorded terms behind the rent, before any money is considered.
 
 ## What has to change for your company
 
@@ -77,10 +84,10 @@ Testing in your environment means running it on a past month your lease administ
 
 ## Related workflow templates
 
-- [Receivables exception review](https://fullypowered.ai/workflows/receivables-exception-review/)
-- [Bank reconciliation preparation](https://fullypowered.ai/workflows/bank-reconciliation-preparation/)
-- [Month-end close checklist](https://fullypowered.ai/workflows/month-end-close-checklist/)
+- [Receivables exception review](https://fullypowered.ai/workflows/receivables-exception-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-rent-roll-to-lease-abstract-match&from=gh-rent-roll-to-lease-abstract-match)
+- [Bank reconciliation preparation](https://fullypowered.ai/workflows/bank-reconciliation-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-rent-roll-to-lease-abstract-match&from=gh-rent-roll-to-lease-abstract-match)
+- [Month-end close checklist](https://fullypowered.ai/workflows/month-end-close-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-rent-roll-to-lease-abstract-match&from=gh-rent-roll-to-lease-abstract-match)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-rent-roll-to-lease-abstract-match&from=gh-rent-roll-to-lease-abstract-match).

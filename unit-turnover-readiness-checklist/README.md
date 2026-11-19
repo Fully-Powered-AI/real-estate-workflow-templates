@@ -1,10 +1,17 @@
 # Unit turnover readiness checklist
 
-Between one tenant and the next, the property manager gets one page for the unit: every recorded repair, the cleaning, keys, utilities and vendor confirmations still open against the approved move-in date, each gap written as a question. Nothing is sent.
+Between tenants, get one page of every repair, cleaning, key, utility and vendor confirmation still open against the move-in date. You decide.
 
-*Workflow template · Real estate · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/unit-turnover-readiness-checklist/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Unit turnover readiness checklist on our website](https://fullypowered.ai/workflows/unit-turnover-readiness-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-unit-turnover-readiness-checklist&from=gh-unit-turnover-readiness-checklist) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/unit-turnover-readiness-checklist/?from=gh-unit-turnover-readiness-checklist)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Real estate · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/unit-turnover-readiness-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-unit-turnover-readiness-checklist&from=gh-unit-turnover-readiness-checklist)*
 
 ## The outcome
 
@@ -39,21 +46,21 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where the turnover is a repeated process that should run the same way every time.
-- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/), where the incoming tenant's first impression is set by whether the unit is ready on the day.
-- [Real estate](https://fullypowered.ai/industries/real-estate/), where every vacant day costs rent and every missed item costs a complaint.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the turnover routine lives in one coordinator's head and should live on a page.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more units and more vendors turn over than one person can follow.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-unit-turnover-readiness-checklist&from=gh-unit-turnover-readiness-checklist), where the turnover is a repeated process that should run the same way every time.
+- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-unit-turnover-readiness-checklist&from=gh-unit-turnover-readiness-checklist), where the incoming tenant's first impression is set by whether the unit is ready on the day.
+- [Real estate](https://fullypowered.ai/industries/real-estate/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-unit-turnover-readiness-checklist&from=gh-unit-turnover-readiness-checklist), where every vacant day costs rent and every missed item costs a complaint.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-unit-turnover-readiness-checklist&from=gh-unit-turnover-readiness-checklist), where the turnover routine lives in one coordinator's head and should live on a page.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-unit-turnover-readiness-checklist&from=gh-unit-turnover-readiness-checklist), when more units and more vendors turn over than one person can follow.
 
 ## What has to change for your company
 
-Start from your own turnover checklist; the workflow template adds no standard items of its own. Set your own two limits for finishing early and for stale vendor news; if you leave them blank the page assumes one day and three days. Choose who walks the unit, who signs off that it is ready and who may release the tenant message. Agree the status words your team uses for work and keys. Name the person who calls vendors, because the assistant never does. It runs in ChatGPT, Claude, Copilot or Gemini from files you supply, with no connection to your property system. [Preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/) covers the building's equipment through the year, and [project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/) is the sibling for project handovers. [Supplier delivery date check](https://fullypowered.ai/workflows/supplier-delivery-date-check/) suits materials ordered for a repair.
+Start from your own turnover checklist; the workflow template adds no standard items of its own. Set your own two limits for finishing early and for stale vendor news; if you leave them blank the page assumes one day and three days. Choose who walks the unit, who signs off that it is ready and who may release the tenant message. Agree the status words your team uses for work and keys. Name the person who calls vendors, because the assistant never does. It runs in ChatGPT, Claude, Copilot or Gemini from files you supply, with no connection to your property system. [Preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-unit-turnover-readiness-checklist&from=gh-unit-turnover-readiness-checklist) covers the building's equipment through the year, and [project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-unit-turnover-readiness-checklist&from=gh-unit-turnover-readiness-checklist) is the sibling for project handovers. [Supplier delivery date check](https://fullypowered.ai/workflows/supplier-delivery-date-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-unit-turnover-readiness-checklist&from=gh-unit-turnover-readiness-checklist) suits materials ordered for a repair.
 
 ## What has been checked
 
 FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it; small edits made after that run have not been run again. It has not yet been tested in a client environment. It has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini. It certifies nothing about the condition of a unit.
 
-Testing in your environment means running it on two or three past turnovers your coordinator remembers well, plus hard cases written in advance, each with its expected behavior: a renamed column, work promised after the needed-by date, a repair with no booking, a disputed condition record, a visit blocked for access. The manager checks every line against the work orders before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past turnovers your coordinator remembers well, plus hard cases written in advance, each with its expected behavior: a renamed column, work promised after the needed-by date, a repair with no booking, a disputed condition record, a visit blocked for access. The manager checks every line against the work orders before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-unit-turnover-readiness-checklist&from=gh-unit-turnover-readiness-checklist) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-unit-turnover-readiness-checklist&from=gh-unit-turnover-readiness-checklist) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -80,10 +87,10 @@ Testing in your environment means running it on two or three past turnovers your
 
 ## Related workflow templates
 
-- [Preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/)
-- [Project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/)
-- [Supplier delivery date check](https://fullypowered.ai/workflows/supplier-delivery-date-check/)
+- [Preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-unit-turnover-readiness-checklist&from=gh-unit-turnover-readiness-checklist)
+- [Project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-unit-turnover-readiness-checklist&from=gh-unit-turnover-readiness-checklist)
+- [Supplier delivery date check](https://fullypowered.ai/workflows/supplier-delivery-date-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-unit-turnover-readiness-checklist&from=gh-unit-turnover-readiness-checklist)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-unit-turnover-readiness-checklist&from=gh-unit-turnover-readiness-checklist).

@@ -1,10 +1,17 @@
 # Property diligence index
 
-The transaction lead gets a diligence room in order: every document indexed by workstream, every checklist item and request tracked, and every open finding tied to the report or request that raised it. Specialists judge the findings; nothing is valued or sent.
+Get a diligence room in order: documents indexed by workstream, requests and open findings tracked. Specialists judge findings; nothing is valued or sent.
 
-*Workflow template · Real estate · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/property-diligence-index/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Property diligence index on our website](https://fullypowered.ai/workflows/property-diligence-index/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/property-diligence-index/?from=gh-real-estate-property-diligence-index)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Real estate · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/property-diligence-index/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index)*
 
 ## The outcome
 
@@ -34,15 +41,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Real estate](https://fullypowered.ai/industries/real-estate/), where a purchase, financing or disposition rests on a stack of third-party reports.
-- [Construction](https://fullypowered.ai/industries/construction/), for site acquisitions and development land with the same inspection and survey trail.
-- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/), for lenders and investors who need to see which items are still open before they rely on a package.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which owns the timetable and the follow-up.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where the same index shape serves any repeated review of outside documents.
-- [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/), when a team runs several acquisitions at once.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when deal volume outgrows the folders and spreadsheets in use.
+- [Real estate](https://fullypowered.ai/industries/real-estate/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index), where a purchase, financing or disposition rests on a stack of third-party reports.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index), for site acquisitions and development land with the same inspection and survey trail.
+- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index), for lenders and investors who need to see which items are still open before they rely on a package.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index), which owns the timetable and the follow-up.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index), where the same index shape serves any repeated review of outside documents.
+- [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index), when a team runs several acquisitions at once.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index), when deal volume outgrows the folders and spreadsheets in use.
 
-It is not an evidence index for an audit; that is [audit evidence index](https://fullypowered.ai/workflows/audit-evidence-index/). It does not compare bids; that is [vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/). It is not a document index for a construction lender's draw package; that is [lender draw package index](https://fullypowered.ai/workflows/lender-draw-package-index/). It does not track the documents a client owes an engagement; that is [client document request tracker](https://fullypowered.ai/workflows/client-document-request-tracker/). Decisions that come out of the findings can be recorded with the [decision log](https://fullypowered.ai/workflows/decision-log/).
+It is not an evidence index for an audit; that is [audit evidence index](https://fullypowered.ai/workflows/audit-evidence-index/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index). It does not compare bids; that is [vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index). It is not a document index for a construction lender's draw package; that is [lender draw package index](https://fullypowered.ai/workflows/lender-draw-package-index/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index). It does not track the documents a client owes an engagement; that is [client document request tracker](https://fullypowered.ai/workflows/client-document-request-tracker/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index). Decisions that come out of the findings can be recorded with the [decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index).
 
 ## What has to change for your company
 
@@ -52,7 +59,7 @@ Name your workstreams and keep the spelling identical in every list. Set how man
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude, in one run; the record is published with it. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a closed deal your team already knows, with cases written in advance: a report with missing pages, two versions of one statement, a request marked received with no document, an item with no owner. The transaction lead checks every line against the lists before anyone relies on the index. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on a closed deal your team already knows, with cases written in advance: a report with missing pages, two versions of one statement, a request marked received with no document, an item with no owner. The transaction lead checks every line against the lists before anyone relies on the index. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -79,12 +86,12 @@ Testing in your environment means running it on a closed deal your team already 
 
 ## Related workflow templates
 
-- [Audit evidence index](https://fullypowered.ai/workflows/audit-evidence-index/)
-- [Vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/)
-- [Decision log](https://fullypowered.ai/workflows/decision-log/)
-- [Lender draw package index](https://fullypowered.ai/workflows/lender-draw-package-index/)
-- [Client document request tracker](https://fullypowered.ai/workflows/client-document-request-tracker/)
+- [Audit evidence index](https://fullypowered.ai/workflows/audit-evidence-index/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index)
+- [Vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index)
+- [Lender draw package index](https://fullypowered.ai/workflows/lender-draw-package-index/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index)
+- [Client document request tracker](https://fullypowered.ai/workflows/client-document-request-tracker/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-property-diligence-index&from=gh-real-estate-property-diligence-index).

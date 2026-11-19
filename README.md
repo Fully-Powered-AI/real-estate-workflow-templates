@@ -1,14 +1,55 @@
-# FullyPowered Workflow Templates: Real Estate
+# AI workflow templates for property managers and brokers
 
-Every property's facts straight, every time. These workflow templates are written for the people who manage and market property. They prepare the administrative checking and reporting from the records you supply. They value nothing, advise on no transaction and interpret no lease.
+FullyPowered Workflow Templates for property management and real estate teams turn the AI your company already pays for into a team that knows how the work is done: a property manager with the monthly owner report drafted from supplied statements, a property accountant with the rent roll checked against the lease abstracts, a transaction lead with the diligence room indexed by workstream. 6 workflow templates, made to be customized and deployed. All plain Markdown, all free, MIT license.
 
-**These are templates, made to be customized and deployed.** They are examples and a starting point, not a complete list: copy one, change it to fit how your team does the work, and run it in the AI you already pay for.
+We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
-**FullyPowered AI customizes and builds AI workflows that run in ChatGPT, Claude, Copilot and Gemini**, including ones that run several steps. [More examples for real estate businesses](https://fullypowered.ai/industries/real-estate/?from=gh-real-estate) · [Have one built for your team](https://fullypowered.ai/pricing/?from=gh-real-estate)
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for property management and real estate teams](https://fullypowered.ai/industries/real-estate/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-readme&from=gh-real-estate-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-readme&from=gh-real-estate-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-This repository holds 6 workflow templates for property managers, brokers and their operations staff. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+**Who this is for**
 
-## The workflow templates
+- Brokerage owners and property company principals who have paid for AI and want it doing real work.
+- Heads of property management and operations who want something their team can run this week.
+- The property manager or accountant who does the work, gets a precise way to prepare it and decides.
+
+**What these are for**
+
+- **Your best way of doing it, for the whole team.** One piece of work, written down precisely enough that an assistant prepares it the same way every time.
+- **Work you can check.** Every template says what it needs, what it produces, what it checked and what it could not.
+- **A person decides.** Anything that sends, posts, pays or changes a record waits for someone to approve it.
+- **Tied into your business systems.** A workflow can be designed to pull from the systems your company already runs, and even push data back into them, with guardrails and a person approving. [Browse the Connectors Directory](https://fullypowered.ai/connectors/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-readme&from=gh-real-estate-readme).
+- **Free, open and portable.** MIT-licensed plain instructions that run in the assistant or agent your team already uses: ChatGPT, Claude, Claude Code, Claude Cowork, Codex, Copilot, Gemini, Grok, Perplexity.
+
+**Quick start**
+
+1. **Turn a vacated unit into one page of open items.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat, then replace the bracketed parts with your own notes. Paste in your move-out findings, your turnover checklist and any vendor updates. You need no sign-in here and nothing to download.
+
+   ```text
+   You prepare a unit turnover checklist for a property manager from the records I paste below. You prepare and I decide. Never say the unit is ready, never judge safety or code compliance, and never contact anyone, book work or send anything. If something is missing, ask me. Work back from the move-in date [date] and treat [number] days before it as the needed-by date. Today is [date]. Use these records: move-out findings [paste], my turnover checklist with each status [paste], vendor updates [paste]. Give me one page with repairs, cleaning, keys and utilities, each marked reported complete or open. List vendor confirmations still outstanding. Write each flagged line as a question for me. Add a tenant message marked as held until I approve it.
+   ```
+
+2. Read what comes back. It marks what it checked and what is left for you. What comes out for an invented unit:
+
+   ```text
+   UNIT TURNOVER READINESS CHECKLIST: Quillon Yard Apartments, unit 4B
+
+   For: property manager. Prepared: Monday 14 December 2026. Move-out: Saturday 5 December 2026. Approved move-in: Saturday 19 December 2026. Needed by: Friday 18 December 2026 (4 days from today; 1 day before move-in).
+   Sources: move-out record (9 items); turnover checklist (10 items); vendor and work updates (7 updates); settings.
+   Lines: 18 (8 repairs, 10 checklist items). Reported complete: 4. Open: 14. Flagged: 8. Decisions: 9.
+   Readiness is for the property manager to decide after verifying the unit. This checklist does not say the unit is ready.
+
+   1. REPAIRS FROM THE MOVE-OUT RECORD
+   R1 Kitchen: dishwasher does not drain. Noted 5 Dec. Open: booked for 16 Dec, vendor confirmed. Update V3, Vendor C (appliance repair), repair dishwasher drain; status booked, promised Wed 16 Dec, vendor confirmed yes, updated 12 Dec.
+   ```
+
+3. Stop there. You will know if this is for you. When you want it fitted to your company, or built into your agents, [that is what we do](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-readme&from=gh-real-estate-readme).
+
+A person starts every workflow, supplies the records and makes every decision; the template only prepares and checks, and nothing is sent or changed on its own.
+
+These are samples and a starting point, made to be changed to fit how your company works. Your own work may not appear here, and a workflow can be one step or many, so we can build one around what your team actually does.
+
+## The workflow templates here today
 
 - **[Listing copy fact check](listing-copy-fact-check/)**: The listing agent or marketing lead gets draft listing copy in which every statement is tied to the property sheet, a measurement or a photo, with unsupported descriptions marked and kept out. The listing broker approves; the designated reviewer checks advertising requirements.
 - **[Property diligence index](property-diligence-index/)**: The transaction lead gets a diligence room in order: every document indexed by workstream, every checklist item and request tracked, and every open finding tied to the report or request that raised it. Specialists judge the findings; nothing is valued or sent.
@@ -35,10 +76,10 @@ Each folder says exactly what was checked and when: who wrote it, that its sourc
 
 ## More workflow templates
 
-The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
+The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-readme&from=gh-real-estate-readme) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
 
-For the work these templates come from, by area of the business and by task, see [AI workflow examples for real estate businesses](https://fullypowered.ai/industries/real-estate/).
+For the work these templates come from, by area of the business and by task, see [AI workflow examples for real estate businesses](https://fullypowered.ai/industries/real-estate/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-readme&from=gh-real-estate-readme).
 
 ## Licence and credits
 
-MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/).
+MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=real-estate-readme&from=gh-real-estate-readme).
