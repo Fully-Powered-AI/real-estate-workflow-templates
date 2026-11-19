@@ -4,6 +4,8 @@ The listing agent or marketing lead gets draft listing copy in which every state
 
 *Workflow template · Real estate · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/listing-copy-fact-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/listing-copy-fact-check/?from=gh-real-estate-listing-copy-fact-check)
+
 ## The outcome
 
 A listing or brochure goes to the broker with its evidence attached. Each statement in the copy points to the line of the property sheet, the measurement or the photo that backs it, so the broker is not left to remember where a number came from. Words that nothing supports, such as "sun-drenched", "steps from the subway" or an amenity nobody has confirmed, are marked and left out of the copy rather than slipped through.

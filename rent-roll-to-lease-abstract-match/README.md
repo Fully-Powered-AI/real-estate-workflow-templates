@@ -4,6 +4,8 @@ Your property accountant gets the rent roll checked against the verified lease a
 
 *Workflow template · Real estate · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/rent-roll-to-lease-abstract-match/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/rent-roll-to-lease-abstract-match/?from=gh-rent-roll-to-lease-abstract-match)
+
 ## The outcome
 
 The rent roll stops being something everyone assumes is right. Each month, or at a property handoff, the property accountant and the lease administrator get one list: the units that agree with the verified paperwork, the units that do not, and the units where the answer depends on something a person has to confirm.

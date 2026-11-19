@@ -4,6 +4,8 @@ The transaction lead gets a diligence room in order: every document indexed by w
 
 *Workflow template · Real estate · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/property-diligence-index/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/property-diligence-index/?from=gh-real-estate-property-diligence-index)
+
 ## The outcome
 
 During a property transaction, reports arrive from inspectors, the title company, environmental consultants and the seller, each on its own day and in its own format. Questions come out of them faster than anyone can keep track of. This workflow template turns the pile into one index you can work from.

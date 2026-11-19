@@ -4,6 +4,8 @@ For a property manager collecting insurance certificates from service vendors: e
 
 *Workflow template · Real estate · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/vendor-insurance-certificate-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/vendor-insurance-certificate-check/?from=gh-vendor-insurance-certificate-check)
+
 ## The outcome
 
 A certificate arrives in an inbox, and someone has to find out whether it says what the team asked for. This workflow template does that reading the same way every time. For each vendor it sets the certificate's fields beside your approved requirement sheet, line by line: the insured name, the certificate holder, each limit, each extra term the sheet asks for, and the dates. Where a field matches, it says so. Where it differs or is missing, it says exactly what the certificate shows and what the sheet lists. It covers vendors only; tenant certificates are out of scope.

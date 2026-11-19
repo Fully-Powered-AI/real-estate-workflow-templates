@@ -4,6 +4,8 @@ Between one tenant and the next, the property manager gets one page for the unit
 
 *Workflow template · Real estate · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/unit-turnover-readiness-checklist/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/unit-turnover-readiness-checklist/?from=gh-unit-turnover-readiness-checklist)
+
 ## The outcome
 
 A turnover stops depending on whoever remembers it. Every repair noted at move-out sits on one page beside what is known about it: who is booked, for which day, whether the vendor has confirmed, and how old that news is. Cleaning, keys and utilities sit beside them, each with its status as recorded.

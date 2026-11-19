@@ -4,6 +4,8 @@ A property manager gets the month's owner report drafted from the statements and
 
 *Workflow template · Real estate · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/property-owner-report/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/property-owner-report/?from=gh-real-estate-property-owner-report)
+
 ## The outcome
 
 The owner report stops being the thing written in a rush on the fifth of the month. Once the month's statements and logs are in, the property manager has a draft that says how full the building is, what was collected and what is still owed, which repairs are open and how long they have been open, and what the owner is being asked to decide.
